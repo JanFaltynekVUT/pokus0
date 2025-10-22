@@ -1,0 +1,14 @@
+C:\Vyuka vcp\AppHello\bin\Debug\net10.0\AppHello.exe
+C:\Vyuka vcp\AppHello\bin\Debug\net10.0\AppHello.deps.json
+C:\Vyuka vcp\AppHello\bin\Debug\net10.0\AppHello.runtimeconfig.json
+C:\Vyuka vcp\AppHello\bin\Debug\net10.0\AppHello.dll
+C:\Vyuka vcp\AppHello\bin\Debug\net10.0\AppHello.pdb
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\AppHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\AppHello.AssemblyInfoInputs.cache
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\AppHello.AssemblyInfo.cs
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\AppHello.csproj.CoreCompileInputs.cache
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\AppHello.dll
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\refint\AppHello.dll
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\AppHello.pdb
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\AppHello.genruntimeconfig.cache
+C:\Vyuka vcp\AppHello\obj\Debug\net10.0\ref\AppHello.dll
